@@ -1,7 +1,11 @@
 # gishs.github.io
-Personal website
+## Husni Sabah Personal Website
 
-Data Analysis with R, Datacamp 
-Geographic Information System Specoalization, University of Davis, Coursera
-GIS, Mapping and Spatial Analysis Specialization, University of Toronto, Cousera
-Data Science Fundamentals with Python and SQL specialization, IBM, Coursera
+## Education
+
+- MSc in Plant Science, Utah State University
+- BSc in Agriculture, American University of Beirut
+- Data Analysis with R, Datacamp
+- Geographic Information system Specialization, University of Davis
+- GIS, Mapping and Spatial Analysis Specialization, University of Toronto
+- Data Science Fundamentals with Python and SQL Specialization, IBM
